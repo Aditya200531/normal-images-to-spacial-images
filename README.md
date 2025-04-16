@@ -33,7 +33,8 @@ RVCE_24CX02RV_GenAI_Converting_normal_photos_to_spatial_photos/
 ```
 
 ## Model Architecture
-![dbf3666e-fc68-40c1-a314-298faeb4d71b](https://github.ecodesamsung.com/SRIB-PRISM/RVCE_24CX02RV_GenAI_Converting_normal_photos_to_spatial_photos/assets/33436/28b61fef-96a4-433c-9159-d4b7173e247c)
+![image](https://github.com/user-attachments/assets/fa699826-698b-465c-9568-ba946db7e13a)
+
 
 
 ### Core Components
